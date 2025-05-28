@@ -6,13 +6,6 @@
 
 The Cafe Management System project aims to simplify cafeteria management by providing a comprehensive system that allows cafe owners to effortlessly create, modify, and print invoices, add and manage products, and control user access.
 
-### Project Video
-
-Watch a demo of the project in action:
-
-https://github.com/Bahri-Adem/Cafe-Management-System-Angular-SpringBoot/assets/103949052/1e1fc0f1-26c7-4306-96b7-f46d32899090
-
-
 ## Key Features
 
 ### Admin Features
