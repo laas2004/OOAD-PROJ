@@ -20,6 +20,7 @@ The Cafe Management System project aims to simplify cafeteria management by prov
 
 ### User Features
 
+
 - Login & Sign Up
 - User Dashboard
 - Manage Orders (Add)
